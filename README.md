@@ -1,8 +1,8 @@
-# _Application Name_
+# _Snake Game_
 
 #### _App Name - 0X/XX/21 - Code Review00X_
 
-#### By _**Jennifer Bordon**_
+#### By _**Godfrey Owidi**_
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@
 
 ## Github Pages link
 
-[Click here](https://bordonj.github.io/repoHere) for the Github Pages link. 
+[Click here](https://github.com/godfreyowidi/fp_SnakeGame_JS) for the Github Pages link. 
 
 ## Known Bugs
 
@@ -42,4 +42,3 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact Information
 
-_jennifer.bordon@gmail.com_
