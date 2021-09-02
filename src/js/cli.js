@@ -3,6 +3,7 @@ const Snake    = require('./snake')
 const base     = require('./base')
 Object.getOwnPropertyNames(base).map(p => global[p] = base[p])
 
+import { rep, adjust, pipe, map, k, id } from './base';
 // Mutable state
 let State = Snake.initialState()
 
